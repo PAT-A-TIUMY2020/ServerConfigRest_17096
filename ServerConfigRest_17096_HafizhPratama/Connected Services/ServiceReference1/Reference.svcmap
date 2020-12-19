@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="856329af-51a6-40de-b9d6-2d294eacc493" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TI_UMY.wsdl" MetadataType="Wsdl" ID="10ea876b-a300-4b34-a340-b8adeb8a1be7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="3ad07fdd-9f25-487a-af5e-0e197037b8bc" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="f6af156c-5b8f-4050-9e9d-00a2621d30e6" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="9a8cf1f3-55c8-4697-8e52-572b08c594f4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="fe78386d-57f4-43c8-9a24-fd76e9297723" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_17096_HafizhPratama/Service1/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
